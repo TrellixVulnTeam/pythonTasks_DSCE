@@ -1,2 +1,3 @@
 # pythonTasks
-Tasks in different topics.
+All Tasks in different topics from pluralsight courses.
+
